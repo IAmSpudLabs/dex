@@ -1,9 +1,0 @@
-// Dex
-// --------------
-//     (c) 2020-present Anthony Mancini
-//     Dex may be freely distributed under the MIT license.
-//     For details and documentation:
-//     http://knexjs.org
-
-import dex from './lib-dyn/index.js';
-export default dex;
