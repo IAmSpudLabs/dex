@@ -5,5 +5,5 @@
 //     For details and documentation:
 //     http://knexjs.org
 
-import dex from './lib/index.js';
+import dex from "./lib/index.js";
 export default dex;

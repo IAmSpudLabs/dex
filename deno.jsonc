@@ -1,16 +1,16 @@
 {
-	"tasks": {},
-	"test": {},
-	"lint": {},
-	"lock": false,
-	"imports": {
-		"deno/": "https://deno.land/std@0.184.0/",
-		"debug": "npm:debug@4.1.1",
-		"tarn": "npm:tarn@3.0.0",
-		"ms": "npm:ms@2.1.2",
-		"inherits": "npm:inherits@2.0.4",
-		"inherits/": "npm:inherits@2.0.4/",
-		"lodash": "npm:lodash@4.17.15",
-		"pg-connection-string": "npm:pg-connection-string@2.2.0"
-	}
+  "tasks": {},
+  "test": {},
+  "lint": {},
+  "lock": false,
+  "imports": {
+    "deno/": "https://deno.land/std@0.184.0/",
+    "debug": "npm:debug@4.1.1",
+    "tarn": "npm:tarn@3.0.0",
+    "ms": "npm:ms@2.1.2",
+    "inherits": "npm:inherits@2.0.4",
+    "inherits/": "npm:inherits@2.0.4/",
+    "lodash": "npm:lodash@4.17.15",
+    "pg-connection-string": "npm:pg-connection-string@2.2.0"
+  }
 }
